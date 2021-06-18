@@ -1,0 +1,17 @@
+{
+      "userId" : 0,
+      "title" : "test",
+      "body" : "test",
+      "createdAt" : "2021-06-18T05:36:33.000+0000",
+      "createdBy" : "test",
+      "updatedAt" : "2021-06-18T05:36:33.000+0000",
+      "updatedBy" : "test",
+      "_links" : {
+        "self" : {
+          "href" : "http://localhost:8080/posts/1"
+        },
+        "post" : {
+          "href" : "http://localhost:8080/posts/1"
+        }
+      }
+}

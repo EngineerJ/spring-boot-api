@@ -1,0 +1,2 @@
+INSERT INTO `posts` (`id`, `body`, `created_at`, `created_by`, `title`, `updated_at`, `updated_by`, `user_id`) VALUES ('1', 'test', '2021-06-18 05:36:33.000000', 'test', 'test', '2021-06-18 05:36:33.000000', 'test', '');
+INSERT INTO `posts` (`id`, `body`, `created_at`, `created_by`, `title`, `updated_at`, `updated_by`, `user_id`) VALUES ('2', 'test2', '2021-06-18 05:36:33.000000', 'test2', 'test2', '2021-06-18 05:36:33.000000', 'test2', '');
